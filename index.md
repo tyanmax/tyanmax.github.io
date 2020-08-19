@@ -1,7 +1,7 @@
 # Certification Path
 
 ## Details
-This is where I'll be continually updating the resources I've used, along with any tips that helped me reach certain goals.
+I will be continually updating the resources I've used, along with any tips that helped me reach certain goals.
 
 ### AWS Solutions Architect - Associate
 
@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
