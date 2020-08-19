@@ -6,11 +6,11 @@ This is where I'll be continually updating the resources I've used, along with a
 ### AWS Solutions Architect - Associate
 
 **Completed Courses**
- Adrian Cantril - <a href="https://linuxacademy.com/cp/coursescheduler/view/id/449263">Linux Academy</a>
- Staphane Maarek - <a href="https://www.udemy.com/course/aws-solutions-architect-professional/">Udemy</a>
+ - Adrian Cantril - <a href="https://linuxacademy.com/cp/coursescheduler/view/id/449263">Linux Academy</a>
+ - Staphane Maarek - <a href="https://www.udemy.com/course/aws-solutions-architect-professional/">Udemy</a>
  
 **Practice Tests**
- John Bonso - <a href="https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams-2020/">Tutorials Dojo</a>
+ - John Bonso - <a href="https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams-2020/">Tutorials Dojo</a>
 
 
 
