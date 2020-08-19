@@ -6,8 +6,8 @@ This is where I'll be continually updating the resources I've used, along with a
 ### AWS Solutions Architect - Associate
 
 **Completed Courses**
- - Linux Academy - [Link]https://linuxacademy.com/cp/coursescheduler/view/id/449263
- - Udemy - [Link]https://www.udemy.com/course/aws-solutions-architect-professional/
+ - Linux Academy - [https://linuxacademy.com/cp/coursescheduler/view/id/449263]
+ - Udemy - [https://www.udemy.com/course/aws-solutions-architect-professional/]
 
 
 
