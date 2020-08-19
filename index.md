@@ -1,12 +1,16 @@
-## Certification Repository
+# Certification Path
 
+## Details
 This is where I'll be continually updating the resources I've used, along with any tips that helped me reach certain goals.
 
+### AWS Solutions Architect - Associate
+
+**Completed Courses**
+* Linux Academy - https://linuxacademy.com/cp/coursescheduler/view/id/449263
+* Udemy - https://www.udemy.com/course/aws-solutions-architect-professional/
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
