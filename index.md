@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Certification Journey
 
-You can use the [editor on GitHub](https://github.com/tyanmax/tyanmax.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is where I'll be continually adding resources I've used, along with any tips that helped me reach certain goals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
