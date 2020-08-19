@@ -1,6 +1,6 @@
-## Certification Journey
+## Certification Repository
 
-This is where I'll be continually adding resources I've used, along with any tips that helped me reach certain goals.
+This is where I'll be continually updating the resources I've used, along with any tips that helped me reach certain goals.
 
 
 
