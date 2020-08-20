@@ -3,42 +3,22 @@
 ## Details
 I will be continually updating the resources I've used, along with any tips that helped me reach certain goals.
 
-### AWS Solutions Architect - Associate
+### AWS Solutions Architect - Associate (SAA-C01)
 
 **Completed Courses**
- - Adrian Cantril - <a href="https://linuxacademy.com/cp/coursescheduler/view/id/449263">Linux Academy</a>
- - Staphane Maarek - <a href="https://www.udemy.com/course/aws-solutions-architect-professional/">Udemy</a>
+ - Adrian Cantril - <a href="https://linuxacademy.com/cp/coursescheduler/view/id/449263">Linux Academy SAA-C01</a>
+ - Staphane Maarek - <a href="https://www.udemy.com/course/aws-solutions-architect-professional/">Udemy SAA-C02</a>
  
 **Practice Tests**
  - John Bonso - <a href="https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams-2020/">Tutorials Dojo</a>
 
 
+### AWS Certified Developer - Associate (DVA-C01)
+**Completed Courses**
+ - Staphane Maarek - <a href="https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/">Udemy DVA-C01</a>
+ - Max Schwarzmuller - <a href="https://www.udemy.com/course/aws-serverless-a-complete-introduction/">Udemy AWS Serverless APIs & Apps</a>
+ 
+**Practice Tests**
+ - John Bonso - <a href="https://portal.tutorialsdojo.com/product/aws-certified-developer-associate-practice-exams-2020/">Tutorials Dojo</a>
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tyanmax/tyanmax.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
