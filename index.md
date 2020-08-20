@@ -1,7 +1,7 @@
 # Certification Path
 
+
 ## Details
-I will be continually updating the resources I've used, along with any tips that helped me reach certain goals.
 
 ### AWS Solutions Architect - Associate (SAA-C01)
 
