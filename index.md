@@ -22,3 +22,10 @@ I will be continually updating the resources I've used, along with any tips that
  - John Bonso - <a href="https://portal.tutorialsdojo.com/product/aws-certified-developer-associate-practice-exams-2020/">Tutorials Dojo</a>
 
 
+### Microsoft Certified: Azure Fundamentals (AZ-900)
+**Completed Courses**
+ - Microsoft - <a href="https://www.microsoft.com/en-ca/sites/microsoft-training-days/azure.aspx">Microsoft Learn</a> 
+ - Thomas Mitchell - <a href="https://www.udemy.com/course/az-900-azure-exam-prep-understanding-cloud-concepts/">Udemy</a>
+ 
+ **Practice Tests**
+ - Exam Pass - <a href="https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-tests/">Udemy</a>
